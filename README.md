@@ -13,3 +13,4 @@ Langsung saja klik file main.exe
 # Cara kerja game?
 Secara garis besar ini hanyalah konsep array statis untuk tubuh ular, saya menggunakan ukuran 600x600 pixel untuk ukuran layer game. Dimana pixel-pixel ini kemudian direpresentasikan dalam grid 15x15 pixel untuk satu elemen tubuh begitu juga dengan ukuran makanan. Array tubuh ular akan bertambah jika posisi grid indeks pertama sebagai kepala, sama dengan posisi grid makanan, maka arraynya bertambah. selebihnya penyesuaian sesuai keinginan developer...
 
+![Gambar](src/assets/ular-sunda.png)
